@@ -1,3 +1,3 @@
 # matching-game
 
-my fist game
+[demo](https://wuxjxj.github.io/matching-game/)
